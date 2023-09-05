@@ -1,0 +1,15 @@
+C:\Users\summer\source\MyFirstProject1\MyFirstProject1\bin\Debug\net6.0\MyFirstProject1.exe
+C:\Users\summer\source\MyFirstProject1\MyFirstProject1\bin\Debug\net6.0\MyFirstProject1.deps.json
+C:\Users\summer\source\MyFirstProject1\MyFirstProject1\bin\Debug\net6.0\MyFirstProject1.runtimeconfig.json
+C:\Users\summer\source\MyFirstProject1\MyFirstProject1\bin\Debug\net6.0\MyFirstProject1.dll
+C:\Users\summer\source\MyFirstProject1\MyFirstProject1\bin\Debug\net6.0\MyFirstProject1.pdb
+C:\Users\summer\source\MyFirstProject1\MyFirstProject1\obj\Debug\net6.0\MyFirstProject1.csproj.AssemblyReference.cache
+C:\Users\summer\source\MyFirstProject1\MyFirstProject1\obj\Debug\net6.0\MyFirstProject1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\summer\source\MyFirstProject1\MyFirstProject1\obj\Debug\net6.0\MyFirstProject1.AssemblyInfoInputs.cache
+C:\Users\summer\source\MyFirstProject1\MyFirstProject1\obj\Debug\net6.0\MyFirstProject1.AssemblyInfo.cs
+C:\Users\summer\source\MyFirstProject1\MyFirstProject1\obj\Debug\net6.0\MyFirstProject1.csproj.CoreCompileInputs.cache
+C:\Users\summer\source\MyFirstProject1\MyFirstProject1\obj\Debug\net6.0\MyFirstProject1.dll
+C:\Users\summer\source\MyFirstProject1\MyFirstProject1\obj\Debug\net6.0\refint\MyFirstProject1.dll
+C:\Users\summer\source\MyFirstProject1\MyFirstProject1\obj\Debug\net6.0\MyFirstProject1.pdb
+C:\Users\summer\source\MyFirstProject1\MyFirstProject1\obj\Debug\net6.0\MyFirstProject1.genruntimeconfig.cache
+C:\Users\summer\source\MyFirstProject1\MyFirstProject1\obj\Debug\net6.0\ref\MyFirstProject1.dll

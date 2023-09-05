@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "aT9d0KSzHl52azatP1Dp00mg7SiPjpvTWyewLcsx9VQ888S5lGVJHBhEqIZWBpziVvwKQd7Mk/Ae/GE5scbygQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\summer\\source\\MyFirstProject1\\MyFirstProject1\\MyFirstProject1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\summer\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.21\\microsoft.windowsdesktop.app.ref.6.0.21.nupkg.sha512",
+    "C:\\Users\\summer\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.21\\microsoft.netcore.app.ref.6.0.21.nupkg.sha512",
+    "C:\\Users\\summer\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.21\\microsoft.aspnetcore.app.ref.6.0.21.nupkg.sha512",
+    "C:\\Users\\summer\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.21\\microsoft.netcore.app.host.win-x64.6.0.21.nupkg.sha512"
+  ],
+  "logs": []
+}
